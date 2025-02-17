@@ -10,7 +10,6 @@
 
 
 
-The Live demo is available [Here](https://abtikServices-prototype.netlify.app)
 
 ## Description
 
